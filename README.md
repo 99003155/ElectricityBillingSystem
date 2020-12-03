@@ -4,7 +4,7 @@
 
 Build | cppcheck 
 
-![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg) 
+![C/C++ CI](https://github.com/stepin104345/ElectricityBillingSystem/workflows/C/C++%20CI/badge.svg) 
 ![cppcheck-action](https://github.com/stepin104345/ElectricityBillingSystem/workflows/cppcheck-action/badge.svg) 
 
 ## GitHub Actions
