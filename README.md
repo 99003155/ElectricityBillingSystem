@@ -6,7 +6,7 @@
 
 ![C/C++ CI](https://github.com/stepin104345/ElectricityBillingSystem/workflows/C/C++%20CI/badge.svg) 
 ![cppcheck-action](https://github.com/stepin104345/ElectricityBillingSystem/workflows/cppcheck-action/badge.svg)
-![Unit testing](https://github.com/stepin104345/ElectricityBillingSystem/workflows/Unit%20testing/badge.svg)
+![Unit testing](https://github.com/stepin104345/ElectricityBillingSystem/workflows/Unittesting/badge.svg)
 ![Valgrind](https://github.com/stepin104345/ElectricityBillingSystem/workflows/Valgrind/badge.svg)
 
 
